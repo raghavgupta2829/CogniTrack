@@ -1,0 +1,6 @@
+[
+  {"size": 4, "file": "demo.cpp", "line": 51, "func": "update_counter"},
+  {"size": 4, "file": "demo.cpp", "line": 39, "func": "risky_operation"},
+  {"size": 4, "file": "demo.cpp", "line": 23, "func": "process_order"},
+  {"size": 32, "file": "demo.cpp", "line": 15, "func": "create_user"}
+]
