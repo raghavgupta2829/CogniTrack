@@ -1,4 +1,4 @@
-# MemTrack (C++) — Dynamic Memory Allocation Analysis Tool + AI Fix Suggestions
+# CogniTrack — AI-Powered Dynamic Memory Analysis & Fix Recommendation Engine
 
 A small C++ library that overloads `operator new` / `operator delete`
 to track every heap allocation, detect memory leaks, and report which
